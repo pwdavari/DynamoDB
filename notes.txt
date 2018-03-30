@@ -1,0 +1,8 @@
+Milestone 1:
+
+Insert script using list feature of Dynamo db
+
+Input Arguments to script that ingest csv file and writes to dynamoDb table
+
+table_name (required)
+date (required)
